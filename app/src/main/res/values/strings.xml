@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мои Финансы</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_transactions">История</string>
+    <string name="nav_stats">Статистика</string>
+    <string name="nav_settings">Настройки</string>
+
+    <!-- Home -->
+    <string name="balance_total">Текущий баланс</string>
+    <string name="this_month">Этот месяц</string>
+    <string name="income">Доходы</string>
+    <string name="expense">Расходы</string>
+    <string name="recent_transactions">Последние операции</string>
+    <string name="see_all">Все операции</string>
+    <string name="empty_transactions_title">Пока нет операций</string>
+    <string name="empty_transactions_subtitle">Нажмите «+», чтобы добавить первый доход или расход</string>
+
+    <!-- Add/Edit -->
+    <string name="add_transaction">Новая операция</string>
+    <string name="edit_transaction">Изменить операцию</string>
+    <string name="amount">Сумма</string>
+    <string name="category">Категория</string>
+    <string name="date">Дата</string>
+    <string name="note">Заметка (необязательно)</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="select_category">Выберите категорию</string>
+    <string name="amount_required">Введите сумму больше нуля</string>
+    <string name="delete_confirm_title">Удалить операцию?</string>
+    <string name="delete_confirm_text">Это действие нельзя отменить.</string>
+
+    <!-- Stats -->
+    <string name="stats_title">Статистика расходов</string>
+    <string name="stats_empty">Нет расходов за этот период</string>
+    <string name="previous_month">Предыдущий месяц</string>
+    <string name="next_month">Следующий месяц</string>
+    <string name="total_expenses">Всего потрачено</string>
+
+    <!-- Settings -->
+    <string name="settings_currency">Валюта</string>
+    <string name="settings_theme">Тема оформления</string>
+    <string name="theme_system">Как в системе</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="settings_clear_data">Удалить все данные</string>
+    <string name="settings_clear_data_desc">Безвозвратно удалит все операции</string>
+    <string name="clear_data_confirm_title">Удалить все данные?</string>
+    <string name="clear_data_confirm_text">Все доходы и расходы будут удалены без возможности восстановления.</string>
+    <string name="settings_about">О приложении</string>
+    <string name="settings_about_desc">Все данные хранятся только на вашем устройстве. Нет рекламы, нет интернета, нет слежки.</string>
+
+    <!-- Categories: expense -->
+    <string name="cat_food">Еда</string>
+    <string name="cat_transport">Транспорт</string>
+    <string name="cat_housing">Жильё</string>
+    <string name="cat_entertainment">Развлечения</string>
+    <string name="cat_health">Здоровье</string>
+    <string name="cat_shopping">Покупки</string>
+    <string name="cat_education">Образование</string>
+    <string name="cat_subscriptions">Подписки</string>
+    <string name="cat_other_expense">Прочее</string>
+
+    <!-- Categories: income -->
+    <string name="cat_salary">Зарплата</string>
+    <string name="cat_gift">Подарок</string>
+    <string name="cat_investments">Инвестиции</string>
+    <string name="cat_other_income">Прочее</string>
+
+    <!-- Common -->
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+</resources>
